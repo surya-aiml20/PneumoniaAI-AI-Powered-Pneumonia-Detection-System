@@ -130,7 +130,7 @@ The displayed percentages are model outputs, not a medical diagnosis.
 
 Watch the recorded demonstration of PneumoniaAI, including the image upload and prediction workflow.
 
-▶️ View the PneumoniaAI Demo Video
+[![Watch PneumoniaAI Demo](demo/homepage.png)](demo/Recording%202026-10-12%20010637.mp4)
 
 ## Notes
 
