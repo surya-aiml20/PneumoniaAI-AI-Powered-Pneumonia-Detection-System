@@ -115,6 +115,25 @@ A successful response contains:
 
 The displayed percentages are model outputs, not a medical diagnosis.
 
+##🖥️ Application Screenshots
+🏠 Homepage
+
+
+
+✅ Normal Chest X-Ray Prediction
+
+
+
+🩺 Pneumonia Detection Result
+
+
+
+🎬 Project Demo
+
+Watch the recorded demonstration of PneumoniaAI, including the image upload and prediction workflow.
+
+▶️ View the PneumoniaAI Demo Video
+
 ## Notes
 
 - The model is loaded by the Django application when the prediction view is imported. The model file must exist at the expected path, and the installed TensorFlow/Keras versions must be able to load it.
