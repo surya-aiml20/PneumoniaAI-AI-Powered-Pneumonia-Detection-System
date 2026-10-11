@@ -115,7 +115,8 @@ A successful response contains:
 
 The displayed percentages are model outputs, not a medical diagnosis.
 
-##Application Screenshots
+## Application Screenshots
+
 🏠 Homepage
 ![PneumoniaAI Homepage](demo/homepage.png)
 
