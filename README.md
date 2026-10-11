@@ -118,19 +118,26 @@ The displayed percentages are model outputs, not a medical diagnosis.
 ## Application Screenshots
 
 🏠 Homepage
-![PneumoniaAI Homepage](demo/homepage.png)
+
+<img src="demo/homepage.png" alt="PneumoniaAI Homepage" width="600">
+
 
 ✅ Normal Chest X-Ray Prediction
+
 ![Normal X-Ray](demo/normal.png)
 
+
 🩺 Pneumonia Detection Result
+
 ![Pneumonia Detection](demo/pneumonia.png)
+
 
 🎬 Project Demo
 
 Watch the recorded demonstration of PneumoniaAI, including the image upload and prediction workflow.
 
 [![Watch PneumoniaAI Demo](demo/homepage.png)](demo/Recording%202026-10-12%20010637.mp4)
+
 
 ## Notes
 
