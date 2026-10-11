@@ -118,7 +118,6 @@ The displayed percentages are model outputs, not a medical diagnosis.
 ## Notes
 
 - The model is loaded by the Django application when the prediction view is imported. The model file must exist at the expected path, and the installed TensorFlow/Keras versions must be able to load it.
-- The repository does not include a dependency lock file. For repeatable installations, record and maintain the versions that work in your environment in a `requirements.txt`.
 - Django's development server is intended for local development, not production deployment. Before deploying, configure production settings, static-file serving, secrets, and a production application server.
 
 ## Author
