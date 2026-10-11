@@ -115,18 +115,15 @@ A successful response contains:
 
 The displayed percentages are model outputs, not a medical diagnosis.
 
-##🖥️ Application Screenshots
+##Application Screenshots
 🏠 Homepage
-
-
+![PneumoniaAI Homepage](demo/homepage.png)
 
 ✅ Normal Chest X-Ray Prediction
-
-
+![Normal X-Ray](demo/normal.png)
 
 🩺 Pneumonia Detection Result
-
-
+![Pneumonia Detection](demo/pneumonia.png)
 
 🎬 Project Demo
 
